@@ -76,7 +76,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/MA-OP/metaplex"
+    "url": "https://github.com/metaplex-foundation/metaplex"
   },
   "homepage": ".",
   "devDependencies": {
